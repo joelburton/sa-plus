@@ -1,0 +1,2 @@
+sphinx-bridge @ git+file:///Users/joel/src/sphinx_bridge
+bridge-theme @ git+file:///Users/joel/src/bridge-theme
