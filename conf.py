@@ -1,4 +1,4 @@
-project = 'Grant Basic'
+project = 'Standard Bidding'
 author = ""
 language = 'en'
 
@@ -13,5 +13,5 @@ html_theme_options = {
 }
 
 todo_include_todos = True
-exclude_patterns = ['_nope_/**', ".venv/**"]
+exclude_patterns = [".venv/**"]
 html_copy_source = False
