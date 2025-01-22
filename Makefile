@@ -13,7 +13,7 @@ help:
 
 all: clean html singlehtml
 	cp _build/singlehtml/index.html _build/html/single.html
-	open _build/html/index.html
+	#open _build/html/index.html
 
 publish: clean html singlehtml
 	cp _build/singlehtml/index.html _build/html/single.html

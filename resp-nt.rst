@@ -104,7 +104,7 @@ Responding to `1NT`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== =========================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== =========================================
   `7NT`                |so|         22+         **Grand slam**
   `6NT`                |so|         18-19       **Slam**
@@ -131,7 +131,7 @@ Responding to `2NT`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== =========================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== =========================================
   `7NT`                |so|         17+         **Grand slam**
   `6NT`                |so|         13-15       **Slam**

@@ -75,7 +75,7 @@ No point values shown --- count tricks or trumps.
   :class: table-unstriped table-condense
 
   ==================== ============ ==========================================================
-  Bid                  Forcing      Note
+  Bid                  ?            Note
   ==================== ============ ==========================================================
   `4NT`                |1f| |conv|  **Slam interest:** :ref:`rkc`
   `4S`                 |so|         **Preemptive** *or* **Strong**: expect 10 tricks or 4+ |s|
@@ -98,7 +98,7 @@ No point values shown --- count tricks or trumps.
   :class: table-unstriped table-condense
 
   ==================== ============ ==========================================================
-  Bid                  Forcing      Note
+  Bid                  ?            Note
   ==================== ============ ==========================================================
   `4NT`                |1f| |conv|  **Slam interest:** :ref:`rkc`
   `4S`                 |so|         **Game:** good 7+ |s|, to play

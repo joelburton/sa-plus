@@ -12,6 +12,11 @@ html_theme_options = {
     "extra_footer": "<a href='single.html'>Single page</a> version.",
 }
 
-todo_include_todos = True
+# todo_include_todos = True
 exclude_patterns = [".venv/**"]
 html_copy_source = False
+
+rst_prolog = """
+.. role:: discreet 
+
+"""

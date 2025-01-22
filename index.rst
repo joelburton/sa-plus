@@ -34,4 +34,3 @@ Standard Bidding System
   slam
   conv
   leads
-

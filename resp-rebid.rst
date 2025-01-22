@@ -43,7 +43,7 @@ Rebid after opener minimum: `1H-1S-2H`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `4NT`                |1f| |conv|  19+         **Slam invite:** :ref:`rkc`
   `4S`                 |so|         13-16       **Game:** 7+ |s|, 0-2 |h|
@@ -70,7 +70,7 @@ Rebid after opener medium: `1C-1H-3H`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `4NT`                |1f| |conv|  15+         **Slam invite:** :ref:`rkc`
   `4S`                 ???
@@ -89,7 +89,7 @@ Rebid after opener max: `1C-1S-4S`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `6S`                 |so|         13-15       **Slam:** ??? why not 4NT ???
   `4NT`                |1f| |conv|  13+         **Slam interest:** :ref:`rkc`

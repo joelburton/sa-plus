@@ -12,9 +12,9 @@ Required shape
 
   - **Balanced shapes**:
 
-    - :shape:`5-3-3-2`,
+    - :shape:`5-3-3-2`
 
-    - :shape:`4-4-3-2`,
+    - :shape:`4-4-3-2`
 
     - :shape:`4-3-3-3`
 
@@ -29,6 +29,8 @@ but use judgement: if the short suits have stoppers, these *might be* ok.
 
 Points
 ------
+
+HCP, can modify by **+1/-1p total, max**:
 
 .. rubric:: Positive
 
@@ -47,9 +49,6 @@ Points
 - -1p if much of the strength is in short suits
 
 
-.. important:: For NT, never raise/lower total than more than 1p.
-
-
 Decision
 --------
 
@@ -62,6 +61,8 @@ Evaluating for suit
 Points
 ------
 
+HCP plus/minus all modifications:
+
 .. rubric:: Positive
 
 - +1 for every card beyond 4th in a suit
@@ -70,7 +71,7 @@ Points
 
 .. rubric:: Negative
 
-- 1p for :shape:`4-3-3-3`
+- -1p for :shape:`4-3-3-3`
 
 - -1p for singleton :suit:`K/Q/J` or dubious doubleton (:suit:`KQ` :suit:`KJ` :suit:`QJ`)
 
@@ -82,14 +83,19 @@ Points
 
 - Shade up for lots of As and Ks, down for quacks
 
+
 Deciding to open
 ----------------
+
+Decision is different in different seats.
+
 
 .. rubric:: Opening in 1st/2nd seat
 
 - good 12p or any 13p OR
 
 - passes :title:`Rule of 20`: HCP & length of two longest suits >= 20
+
 
 .. rubric:: Opening in 3rd seat
 
@@ -99,9 +105,15 @@ Deciding to open
 
 - See :ref:`drury` for responding to `1M` opens from 3rd seat
 
+.. tip::
+
+  Some advise only opening light with `1M`; never deceive 1NT pts.
+
+
 .. rubric:: Opening in 4th seat
 
 - :title:`Rule of 15` (*Cansino Count* or *Pierson Points*): HCP + # of Spades
+
 
 Choosing suit
 -------------
@@ -113,6 +125,12 @@ Choosing suit
 2.  Open `1C/1D` if nothing else
 
     - With 4/4: `1D`, with 3/3: `1C`
+
+.. tip::
+
+  Neural bridge opens 1M w/5c over 1m with 6c and weak opening.
+  That may be because we wouldn't be able to rebid our 5c major
+  without that being a reverse. `Cohen <https://www.larryco.com/bridge-articles/6-5-come-alive>`__ agrees.
 
 
 Chart
@@ -126,7 +144,7 @@ Chart
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ==========================================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ==========================================================
   `5D/5C`              |inv|        < open      :ref:`preempts`: good 9c suit w/8 tricks
   `4NT`                |1f| |conv|  25+         :ref:`blackwood`: Ace-asking

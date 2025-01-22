@@ -63,7 +63,7 @@ Add :ref:`dummy-pts`
 
 - 6-9p and 3c support: raise: `-(2H)` |inv|
 
-- 10+p: cuebid opponent suit: `-(2C)` |1f| |conv|
+- 10+p: :ref:`cuebid` opponent suit: `-(2C)` |1f| |conv|
 
 .. rubric:: Without support
 
@@ -104,7 +104,7 @@ Overcalls after `1D-` open
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `4C/4H/4S`           |inv|        < 10        **Preemptive:** good 8+c suit
   `3C/3H/3S`           |inv|        < 10        **Preemptive:** good 7+c suit
@@ -131,14 +131,14 @@ Advancing `1C-(1H)-p-` overcall
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `4H`                 |inv|        < 10        **Preemptive:** 5+ |h|
   `3H`                 |inv|        < 10        **Preemptive:** 4+ |h|
   `2NT`                |inv|        12-14       **Suggest NT:** balanced, stopper in |c|
   `2H`                 |inv|        6-9         **Supporting:** 3 |h|
   `2D`                 |inv|        11+         **New suit:** Good 5+c suit
-  `2C`                 |1f| |conv|  10+         **Cuebid opp suit:** 3+ |h|
+  `2C`                 |1f| |conv|  10+         **Cuebid opp suit:** 3+ |h|, see :ref:`cuebid`
   `1NT`                |inv|        7-11        **Suggest NT:** balanced (usually), stopper in |c|
   `1S`                 |inv|        6+          **New suit:** good 5+c suit
   `p`                                           No fit (usually)
@@ -163,7 +163,9 @@ Reacting to opp overcall
 
   - Jump raise of opener is **preemptive**, weak 0-9p, 4+c support: `1C-(1H)-3C`
 
-  - Cuebid overcall shows limit+ raise in |c|: `1C-(1H)-2H`
+  - Cuebid overcall shows limit+ raise in |c|: `1C-(1H)-2H`, see :ref:`cuebid`
+
+  - :ref:`x-neg`
 
   - `1D-(1H)-X`: shows exactly 4 |s| (if there were 5, would overcall with `1S`)
 
@@ -183,12 +185,12 @@ Response after `1D-(1S)`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `3NT`                |inv|        13-16       **Balanced:** some strength in |s|
   `3D`                 |inv|        < 12p       **Preemptive**, 4+c
   `2NT`                |inv|        11-12       **Balanced:** some strength in |s|
-  `2S`                 |1f| |conv|  11+         **Cuebid:** 4+ |d|
+  `2S`                 |1f| |conv|  11+         **Cuebid:** 4+ |d|, see :ref:`cuebid`
   `2H`                 |1f|         11+         **New suit:** 5+ |h|
   `2D`                 |inv|        6-10        **Support:** 4+ |d|
   `2C`                 |1f|         11+         **New suit:** 5+ |c|

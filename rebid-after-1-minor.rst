@@ -86,7 +86,7 @@ Rebid after `1C-1H`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `4H`                 |inv|        19-21       **Game:** 4+ |h|
   `4C/4D`              |gf| |conv|  13-16       **Game:** :ref:`splinter` 4+ |c| & shortness
@@ -117,7 +117,7 @@ Rebid after `1D-1NT`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `3NT`                |so|         20-21       **Game:** Semi-balanced (didn't open `2NT`)
   `3D`                 |inv|        17-18       **Medium re-show:** 6+ |d|
@@ -144,7 +144,7 @@ opener is |1f|, since combined points is at least 22.
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `2S`                 |1f|         12-18       **Raise** 5+ |d|, 4+ |s|
   `2H`                 |1f|         12-18       **Raise** 5+ |d|, 4+ |h|
@@ -167,3 +167,4 @@ Examples
 
 - :hand:`QJ8 2 AKQJ865 A9`: `1D-1H-3NT` (`3D` isn't forcing, `3NT` easier than `5D`) :discreet:`q15.10`
 
+- :hand:`K942 AKQ4 AQJ95 -`: `1D-1S-2H` (reverse, too big for splinter or `4S`)

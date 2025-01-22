@@ -11,10 +11,11 @@ Balancing
 Choices
 =======
 
-- Double: takeout or to show strength
+- Double: takeout
 - NT: `1NT` 12-14hcp, `2NT` 19-21hcp (not Unusual), Double followed by min NT: 15-18hcp
 - Jump in suit: opening count (NOT weak, like in direct seat)
-- Cuebid: Michaels
+- Cuebid: :ref:`michaels`
+- `p`: "trap pass" (you're strong in their suit; hopefully, partner doubles)
 
 Responding
 ==========
@@ -32,3 +33,10 @@ To balancing NT
 
 (adjust by +3p): systems on
 
+Examples
+========
+
+- :hand:`864 A7 KJ96 AT84` `1D-(p)-p-(1NT)` (12p in range for balancing 1NT)
+- :hand:`K42 K8652 8 J952` `1D-(p)-p-(1H)` (can using 3p to make hearts stronger)
+- :hand:`T873 AJ83 82 KQ8` `1D-(p)-p-(X)` (+3p gets in T/O double range)
+- :hand:`KQ8 A8 KQ84 KT73` `1D-(p)-p-(X)-` (double then NT)

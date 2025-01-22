@@ -80,7 +80,7 @@ Responding to `1H`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ================================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ================================================
   `4NT`                |1f| |conv|  20+         **Slam invite:** :ref:`rkc`
   `4S`                 |inv|        < 10        **Preemptive:** good 7+c suit
@@ -107,7 +107,7 @@ Responding to `1S`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ================================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ================================================
   `4NT`                |1f| |conv|  20+         **Slam invite:** :ref:`rkc`
   `4S`                 |inv|        < 10        **Preemptive:** 5+ |s|

@@ -14,10 +14,7 @@ Doubles / Redoubles
    - :ref:`x-reopen`: made in passout seat, like a takeout by opener
    - :ref:`x-xx`: this is our hand
    - :ref:`x-sos`: pick another trump choice
-
-.. not now XXX
-
-   - :ref:`x-responsive`: after TO by partner: "partner, pick suit"
+   - :ref:`x-responsive`: after overcall/TO between opponent's raise
 
 
 .. _x-penalty:
@@ -27,16 +24,12 @@ Penalty double
 
 - Doubles of game = penalty (may have lead-directing msg, too)
 
-- Double of 1NT = penalty, responses are
+- Double of 1NT = penalty (unless using a defense convention), responses are
 
   - Passed: If distributional: pull if weak, jump if 8+p (invites game); else: keep
 
   - RHO bid: double for penalty, cuebid for takeout, bid, or pass
 
-.. todo::
-
-  Investigate NT-defense, like DONT, which will then make `1NT-X` conventional
-  and not penalty
 
 
 .. _x-to:
@@ -105,7 +98,7 @@ Advancing T/O by partner
 
       - 9-11p: bid best suit 1 level higher
 
-      = 10+: cuebid opponent suit; "partner, help pick"
+      - 10+: cuebid opponent suit; "partner, help pick"
 
       - 12+ bid `4M` |gf|
 
@@ -151,7 +144,7 @@ Advancing takeout double: `1H-(X)-p-`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ================================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ================================================
   `5C/5D`              |inv|        12+         **Game:** 5+c
   `4NT`                |1f| |conv|  20+         **Slam invite:** :ref:`blackwood`
@@ -181,7 +174,7 @@ Doubler's rebid after min advance: `1D-(X)-p-(1H)-p-`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ================================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ================================================
   `4H`                 |so|         22+         **Game:**
   `3H`                 |inv|        19-21       **Strong invite:** 4+ |h|
@@ -211,11 +204,13 @@ Opponents make T/O
 
 - `4H` |inv|: preemptive jump raise to game, 5c + weak
 
-- `2NT*` |1f| |conv| = limit raise (:ref:`truscott-2nt`)
+- `2NT*` |1f| |conv| = limit+ raise (:ref:`truscott-2nt`)
 
 - `-1S` |1f| new suit at 1-level
 
 - `-2C` |inv|: new suit at 2-level, w/5+c in |c|
+
+    - doesn't need many pts, since `XX` would show strength
 
 - `-3C` |inv| Jump shift, preemptive
 
@@ -230,7 +225,7 @@ Responder after T/O: `1H-(X)-`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ================================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ================================================
   `4H`                 |inv|        < 10        **Preemptive:** 5+ |h|
   `3H`                 |inv|        < 10        **Preemptive:** 4+ |h|
@@ -249,7 +244,53 @@ Responder after T/O: `1H-(X)-`
 Lead-directing double
 =====================
 
-Of artificial bid; be careful doing at low levels (like `1NT-2C*`) unless you have some strength.
+Double that tells partner what to lead.
+
+
+.. _x-lead-art:
+
+Artificial bid double
+---------------------
+
+- `1S-3S-4NT-5D-(X)`: lead a |d|
+
+  - Be careful doing at low levels (eg `1NT-2C*`) when weak --- they may convert to penalty
+
+
+.. _x-lead-lightner:
+
+Lightner double
+---------------
+
+- Without double: `1H-(1S)-(6S)` strongly suggests: lead a |h|
+
+.. compound::
+
+  Double `-X` tells partner:
+
+  - do not lead any suit we've led or a trump
+
+    - often: first suit by dummy
+
+    - if not dummy suit, side suit of declarer
+
+    - else: look at hand and try to guess what doubler could ruff
+
+
+Double against 3NT
+------------------
+
+.. compound::
+
+  Tells partner:
+
+  - lead doubler's suit, even if you have singleton
+
+  - if partner bid, lead that suit: doubler wanted to support, but couldn't
+
+  - if neither: 1st suit bid by dummy (as long as not rebid or raised)
+
+  - else: just a penalty
 
 
 .. _x-xx:
@@ -286,17 +327,83 @@ Negative double
 ===============
 
 - Partner opens, RHO overcalls (Takeout by responder): `1C-(1D)-X`.
-- 1-level: 6+hcp, 2-level: 8+hcp, 3-level: 10+hcp. Don’t have to be short in opponent suit.
-- `1C-(1S)-X`: 4+ hearts, not necessarily diamonds
-- `1C-(1D)-X` = 4+ in both majors; if only one, would do `1C-(1D)-1HS`
+
+- Requirements:
+
+  - 1-level: 6+hcp, 2-level: 8+hcp, 3-level: 10+hcp. Don’t have to be short in opponent suit.
+
+  - Two minors bid: `1C-(1D)-X` or `1D-(2C)-X`
+
+    - 4c in unbid majors *or* 4-5 in unbid majors & too weak to bid both
+
+  - Major and minor bid: `1C-(1H)-X` or `1H-(2C)-X`
+
+    - 4c in unbid major
+
+    - If not 4c in other suit, support for partner's suit or can bid NT
+
+  - Both majors bid: `1H-(1S)-X` or `1S-(2H)-X`
+
+    - 4c in both minors (10p req'd for latter, since partner will have to go to 3L to respond)
+
 - Played through `3S`
 
-.. rubric:: Responding to Neg Double
 
-- Min rebid: <16p NFl
-- Jump rebid: 16-18 NF
-- Cue bid opponent suit: 19+p GF
-- Pass (rare) penalty
+Example auctions
+----------------
+
+- :hand:`742 KQ73 Q6 Q972` `1D-(1S)-X` |inv|
+
+  - Couldn't: support |d| w/2, `1NT` |inv| promises |s| stopper, `2H` |1f| promises stronger & 5+c
+
+- :hand:`KT763 A974 J4 82` `1C-(1D)-X` |inv|
+
+  - Could overcall `-1S` |1f| instead, but too weak to show |h| with `2H` |1f|
+
+  - Negative double gets both suits into auction
+
+- `1C-(1H)-X`: doubler must have exactly 4 |s| --- with 5, would have overcalled
+
+- `1C-(1H)-1S`: same, but now overcalled instead of double; they have 5+ |s|
+
+- `1C-(1S)-X`: 4+ hearts, not necessarily diamonds
+
+- `1C-(1D)-X` = 4+ in both majors; if only one, would do `1C-(1D)-1HS`
+
+- :hand:`5 QT9642 K6 J853` `1D-(1S)-X-2D-2H`
+
+  - Didn't overcall because didn't have 10p but redirected to hearts
+
+  - Can deduce: 5+ |h| and fewer than 10p
+
+- `1D-(2S)-X-3C-3D`
+
+  - Doubler has 10+p (made P go to 3L), has 4+ |h| but not 4+ |c| (but could support |d|)
+
+- :hand:`KJ93 T5 AQJ82 Q5` `1D-(1S)-X-p-1NT` (have |s| stoppers, partner promises |h|\ |c|)
+
+Advancing neg double
+--------------------
+
+- < 16p
+
+  - Bid partner's orig suit or any you can support (pref major)
+
+  - Bid NT w/stopper in opp suit
+
+- 16-18:
+
+  - jump rebid in partner's orig suit, or any you can support (pref major)
+
+  - jump in NT
+
+- 19p+:
+
+  - get to game, possibly using cuebid of opp suit |gf|
+
+- With length & strength in opp suit
+
+  - Can pass ("trap pass"), opener will probably balance with `X`
 
 
 .. _x-bal:
@@ -319,11 +426,48 @@ Reopening double
 - Often good choice if you have singleton/doubleton in overcalled suit
 
 
-.. not now
+.. _x-responsive:
 
-  .. _x-responsive:
+Responsive double
+=================
 
-  Responsive double
-  =================
+Double after opponents bid & raise while partner made simple overcall or takeout double.
 
-  XXX `(1H)-X-(2H)-X`
+- `(1S)-X-(2S)-X`: after support after takeout double
+- `(1S)-2H-(2S)-X`: after simple (non-jump) overcall
+
+Played through `3S`
+
+**Opponents bid & raised minor with P takeout:** `(1D)-X-(2D)-`:
+
+- `-X` asks P to choose better major
+
+  - need points to support P at level being pushed to (2L: 8+p, 3L: 10+p)
+
+**Opponents bid & raised |h| with P takeout:** `(1H)-X-(2H)-`:
+
+- `-2S`: P has 4 |s|, so you can just go there if you can support
+
+- `-3S`: same, want to invite game
+
+- `-X`: best with support for both minors
+
+**Opponents bid & raised |s| with P takeout:** `(1S)-X-(2S)-`:
+
+- `3S`: P has 4+ |h|, go here with support + game interest
+
+- `X`: both minors and <4 |h| *or* 4+ |h| and no game interest
+
+  - `(1S)-X-(2S)-X-(p)-3C/3D-(p)-3H`: play in |h|, don't raise unless very strong
+
+**After overcall: two unbid suits plus tolerance for partner's**
+
+.. rubric:: Not responsive doubles
+
+- `(1D)-X-(2C)-X`: RHO didn't raise LHO's |d|; this is just penalty
+
+- `(1D)-1NT-(2D)-X`: partner didn't make double/suit-overcall; penalty
+
+- `(1D)-2S-(3D)-X`: partner made weak jump overcall; penalty
+
+- `(1D)-2S-(4D)-X`: only play responsive doubles through `3S`; penalty

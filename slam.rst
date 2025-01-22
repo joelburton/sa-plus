@@ -104,10 +104,13 @@ Grand slam force
 Control bids
 ============
 
-Bid of new suit after fit and are committed to game.
+Bid of new suit *after fit*:
+
+- M trump: above `3M`
+
+- m trump: above `3NT`
 
 1st round: A/void, 2nd: K/singleton. Bid up line. Bid at/above game in trump to show nothing.
-
 
 
 .. todo:: consider interference of Ace-asking: DOPI/ROPI

@@ -65,7 +65,7 @@ Rebid after raise `1H-2H`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `4H`                 |so|         19-21       **Game**
   `3S/4C/4D`           |gf| |conv|  13-16       **Game:** :ref:`splinter` GF & shortness
@@ -86,7 +86,7 @@ Rebid after `1H-1S`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `4S`                 |inv|        19-21       **Game:** 5+ |h|, 4+ |s|
   `4H`                 |inv|        19-21       **Game:** 7+ |h|
@@ -114,7 +114,7 @@ Similar to above, but since responder has shown 10+p, new suits by opener are |1
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `2D/2H`              |1f|         12-16       **Invite:** 5+ |h|, ideally 4 new suit
   `3NT`                |gf|         18-19       **Game:** balanced, to play
@@ -140,7 +140,7 @@ Rebid after `1H-1NT`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ============================================
   `4H`                 |inv|        19-21       **Invite:** 7+ |h|
   `3H`                 |inv|        17-18       **Invite:** 6+ |h|

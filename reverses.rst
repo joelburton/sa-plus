@@ -1,5 +1,6 @@
 .. _reverses:
 
+========
 Reverses
 ========
 
@@ -26,8 +27,18 @@ Non-jump rebid at 2-level in new suit higher than 1st, 17+p, usually 5+/4+ in 1s
 Reverses are on in competition.
 
 
+Examples
+--------
+
+- :hand:`KQ6 AQT7 7 QT864`: `1C-1S-2S` |inv| (can't reverse, clubs are too weak)
+
+- :hand:`KQT4 AKQ753 - KJ3`: `1H-1NT-2S` |gf| (a jump to `3H` is weaker, 17-18p; reverse is better)
+
+- :hand:`K942 AKQ4 AQJ95 -`: `1D-1S-2H` (reverse, too big for splinter or `4S`)
+
+
 Responding to reverse
----------------------
+=====================
 
 .. rubric:: Below GF
 
@@ -40,6 +51,14 @@ Responding to reverse
   - XXX Would rebid of 1st major be stronger than Ingberman?
 
 - XXX `2NT`, etc, what would this show when using Ingberman
+
+.. todo:: This treatment is very different from Seagram
+
+  - Options for weak are: rebid own, bid NT at lowest, give pref to opener's 1st/2nd suit
+
+  - Says `1H-2C-2S` still promises 17+p, not the 15+p
+
+  Should we keep Ingberman?
 
 .. rubric:: GF
 
@@ -57,7 +76,7 @@ Responding to reverse
 .. _rev-by-resp:
 
 Reverses by responder
----------------------
+=====================
 
 - Like `1C-1D-1NT-2H` shows opening hand or better (GF)
 

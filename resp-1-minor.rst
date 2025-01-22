@@ -78,7 +78,7 @@ Responding to `1C`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ==============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ==============================================
   `5C`                 |inv|        < 10        **Preemptive:** 6+c |c|
   `4NT`                |1f| |conv|  20+         **Slam invite:** :ref:`rkc`
@@ -104,7 +104,7 @@ Responding to `1D`
   :class: table-unstriped table-condense
 
   ==================== ============ =========== ==============================================
-  Bid                  Forcing      Points      Note
+  Bid                  ?            Points      Note
   ==================== ============ =========== ==============================================
   `5D`                 |inv|        < 10        **Preemptive:** 6+c |d|
   `4NT`                |1f| |conv|  20+         **Slam invite:** :ref:`rkc`
