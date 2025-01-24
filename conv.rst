@@ -313,6 +313,8 @@ Should be <15hcp; if more, double. Can be used in balancing seat. Bids:
 - `2NT*` = both minor
 - 3-anything natural
 
+.. note:: NeuralPlay: for `2C`: 5c should be 3/5 top honors, 6c should 2/3
+
 Responses to Cappelletti
 ------------------------
 

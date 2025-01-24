@@ -126,14 +126,14 @@ Responding to `1D`
 
 .. topic:: Example bids
 
-  - :hand:`A73 Q98 A8763 76`: `1D-3D` (limit raise) :discreet:`(BQ #1-9)`
-  - :hand:`J73 3 AQJ764 AJ3`: `1D-3H` (splinter) :discreet:`(BQ #1-10)`
-  - :hand:`KQ9 QJ8 AJ5 J875`: `1C-3NT` (go to game w/balanced) :discreet:`(BQ #14-2)`
-  - :hand:`AQ93 7 AK8763 T4`: `1C-1D` (15p, but don't need to jump---new suit is |1f|) :discreet:`(BQ #14-6)`
-  - :hand:`K74 5 9863 QJ975`: `1C-2C` (raise) :discreet:`(BQ #14-10)`
-  - :hand:`Q873 95 J4 AQ852`: `1C-1S` (1st priority: show major) :discreet:`(BQ #35-2)`
-  - :hand:`K973 752 KJT7 72`: `1C-1D` (up line) or `1C-1S` (weak, will only get one bid) :discreet:`(BQ #35-6)`
-  - :hand:`K4 AKQJ52 96 A82`: `1C-2H` (w/SJS, 19p) or `1C-1H` (w/WJS) :discreet:`(BQ #35-9)`
+  - :hand:`A73 Q98 A8763 76`: `1D-3D` (limit raise) :discreet:`bq1.9`
+  - :hand:`J73 3 AQJ764 AJ3`: `1D-3H` (splinter) :discreet:`bq1.10`
+  - :hand:`KQ9 QJ8 AJ5 J875`: `1C-3NT` (go to game w/balanced) :discreet:`bq14.2)`
+  - :hand:`AQ93 7 AK8763 T4`: `1C-1D` (15p, but don't need jump---new suit is |1f|) :discreet:`bq14.6`
+  - :hand:`K74 5 9863 QJ975`: `1C-2C` (raise) :discreet:`bq14.10`
+  - :hand:`Q873 95 J4 AQ852`: `1C-1S` (1st priority: show major) :discreet:`bq35.2`
+  - :hand:`K973 752 KJT7 72`: `1C-1D` (up line) or `1C-1S` (weak, will only get one bid) :discreet:`bq35.6`
+  - :hand:`K4 AKQJ52 96 A82`: `1C-2H` (w/SJS, 19p) or `1C-1H` (w/WJS) :discreet:`bq35.9`
 
 Alternative approaches
 ======================
