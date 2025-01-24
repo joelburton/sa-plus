@@ -57,6 +57,7 @@ Conventions
    - ogust over weak two
 
 
+
 .. _jacoby-2nt:
 
 Jacoby 2NT
@@ -85,6 +86,7 @@ For example, with `1HS-2NT*`. Openers rebids are:
 **Competition:** if the opponents intervene in any way, Jacoby 2NT is off.
 
 
+
 .. _gambling-3nt:
 
 Gambling `3NT*`
@@ -103,6 +105,7 @@ There should be little power in the side suits (otherwise, a slam could be misse
   - `5C/6C/7C` work similarly with lots of strength in opener
 
   - `4H/4S` is natural, to play
+
 
 
 .. _splinter:
@@ -127,6 +130,7 @@ Examples
 --------
 
 - :hand:`KQ94 AK983 AQ4 5`: `1H-1S-4C` (opener can splinter, too! need 19+p)
+
 
 
 .. _major-game-try:
@@ -158,6 +162,7 @@ Examples
 - :hand:`763 AK74 Q4 8765` `1S-2S-3C-3H`: can't help in |c|, but good hand and help in |h|
 
 - :hand:`K32 J53 A8752 43` `1S-2S-3H-3S` 8+1=9p but would downgrade stranded :suit:`J`
+
 
 
 .. _minor-3nt-try:
@@ -211,6 +216,7 @@ Examples
 - :hand:`K3 A4 87 AQJ8543`: `1S-2C-2D-2H`: fsf, you want game, but |gf| so can explore
 
 - :hand:`KQ986 K5 A84 Q74`: `1H-1S-2C-2D`: fsf, give chance for 3c |s| support
+
 
 
 .. _michaels:
@@ -296,6 +302,7 @@ Examples
 - :hand:`5 3 QT8753 KQJ83`: `1H-`, |v+| `2NT`, else `p`
 
 
+
 .. _cappelletti:
 
 Cappelletti
@@ -323,6 +330,7 @@ Responses to Cappelletti
 - `2C*-2D*` asks suit, `2HS` w/good 5c, `2NT` is 11+hcp and ok w/any
 - `2D*`: `2HS` picks, `2NT*` asks better minor, `3C` is 6+c C, `3HS` invite game w/4+ in suit
 - `2HS*`: pass to play, raise 7-10p, new suit natural NF, `2NT*` asks for minor
+
 
 
 .. _drury:
@@ -379,6 +387,7 @@ Examples
   - 5-3 fit in |s|, 4-4 in |h| (better to use 4-4 and use 5c |s| in dummy for discards)
 
 
+
 .. _truscott-2nt:
 
 Truscott 2NT
@@ -389,6 +398,7 @@ Truscott 2NT
 After a T/O double, shows limit+ raise w/4c support: `1H-(X)-2NT` |1f| |conv| shows 10+p and 4+ |h|.
 
 - With a minor, that should be 5c support
+
 
 
 .. _cuebid:
@@ -421,6 +431,7 @@ Examples
 - :hand:`JT84 3 953 K8542` `1S-(2D)-3S` |inv|: weak, preemptive (maybe even `4S` with fav vuln)
 
 - :hand:`AQ74 AKJ74 5 K64` `1S-(2D)-2H` |1f|: huge hand, no rush, can show |s| later
+
 
 
 .. _dont:
@@ -537,6 +548,7 @@ Interference
   - `X`: ask for 2nd suit *or* with support for opening minor
 
     - You can retreat to their minor after they reveal 2nd suit
+
 
 
 .. _landy:

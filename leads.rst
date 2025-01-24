@@ -75,7 +75,7 @@ Lead v Suit
 
   - :suit:`(?)?`: top of any doubleton
 
-  - :suit:`(H)xx`: low or 4th best
+  - :suit:`Hx(x)`: low or 4th best
 
   - :suit:`(J)Tx` touching: top
 
@@ -88,7 +88,7 @@ Lead v Suit
 Signals
 =======
 
-In order of preference (only go to next if  known or irrelevant)
+In order of preference (only go to next if known or irrelevant)
 
 1. **Attitude**: high is good
 
