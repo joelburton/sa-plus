@@ -13,7 +13,7 @@ html_theme_options = {
 }
 
 # todo_include_todos = True
-exclude_patterns = [".venv/**"]
+exclude_patterns = [".venv/**", "venv/**"]
 html_copy_source = False
 
 rst_prolog = """
