@@ -116,15 +116,20 @@ Splinter
 A game-force shape-showing double-jump in a new suit to agree to a trump suit (w/4+ M or 5+ m).
 Can be made by opener/responder. Off if opponents are in auction (big jumps then are preemptive):
 
+For responder, should be about 13-15p in mjor; about 15-17p in minor (since may need to go to `4m`)
+
 `1S-4D`: 4+ |s|, |gf|, void or singleton in diamonds (& not the A or K).
 
 If 4+c but no void or appropriate singleton, :ref:`jacoby-2nt` is a good bid.
 
 Good for finding potential slams with fewer points.
 
-.. todo:: Seagram says these are for minors, and uses 13-15p
+.. how we know splinter bids are ok w/minors: Dorothy Hayden says so in Bid Better, Much Better
 
-  perhaps for minors, you need 15p?, to guarantee 5L gf ?
+.. idea: mini-splinter
+
+  1C-1S-4H would be normal splinter (S/J+2); 2H would already be a reverse, so don't need
+  3H to show strength. could use 3H for 17p splinter and 3H for stronger
 
 Examples
 --------
@@ -322,8 +327,8 @@ Should be <15hcp; if more, double. Can be used in balancing seat. Bids:
 
 .. note:: NeuralPlay: for `2C`: 5c should be 3/5 top honors, 6c should 2/3
 
-Responses to Cappelletti
-------------------------
+Responding to Cappelletti
+-------------------------
 
 - Double: keep in if strong; else move to suit
 - Can pass `2C*` or `2D*` with 6+ good |c|/|d|
