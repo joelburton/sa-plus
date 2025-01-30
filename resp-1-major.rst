@@ -67,6 +67,12 @@ Priorities
   3rd seat `1M` may be light; see :ref:`drury` to inquire about them before
   supporting major.
 
+.. important::
+
+  Bidding a new suit at 2L promises a rebid by responder,
+  unless opener takes it to game.
+
+
 
 Sample auctions
 ===============

@@ -8,13 +8,11 @@ Non-jump rebid at 2-level in new suit higher than 1st, 17+p, usually 5+/4+ in 1s
 
 - `1H-1NT-1S` **not a reverse** (1-level)
 
-- `1S-2C-2H` **not a reverse** (|h| < |s|)
+- `1S-2C-2H` **not a reverse** (|h| < |s|) |gf|
 
 - `1D-1S-2H` **reverse**, 17+p (2-level, |d| < |h|)
 
-- `1D-2C-2H` **reverse** (2-level, |d| < |h|)
-
-  - But: since partner ha shown 10+p, can do with only 15+p, not 17+p
+- `1D-2C-2H` **reverse** (2-level, |d| < |h|) |gf|
 
 - `1C-1H-2D` **reverse**, 17+p (2-level, |c| < |d|)
 
@@ -25,6 +23,10 @@ Non-jump rebid at 2-level in new suit higher than 1st, 17+p, usually 5+/4+ in 1s
   - For less, `1C-1D-1H`, showing <19p
 
 Reverses are on in competition.
+
+.. important::
+
+  A reverse after a 2L response (eg `1C-2H-2S`) is |gf| (see :ref:`ingberman`)
 
 
 Examples
@@ -46,19 +48,13 @@ Responding to reverse
 
 - Rebid new 5c major
 
-- w/o major, **Ingberman** `2NT*`: requests opener to rebid 1st suit (aka :title:`Lebensohl after Opener's Reverse`)
+- w/o major, :ref:`ingberman`: requests opener to rebid 1st suit
 
-  - XXX Would rebid of 1st major be stronger than Ingberman?
-
-- XXX `2NT`, etc, what would this show when using Ingberman
 
 .. todo:: This treatment is very different from Seagram
 
   - Options for weak are: rebid own, bid NT at lowest, give pref to opener's 1st/2nd suit
 
-  - Says `1H-2C-2S` still promises 17+p, not the 15+p
-
-  Should we keep Ingberman?
 
 .. rubric:: GF
 
@@ -86,3 +82,23 @@ Reverses by responder
 
 - A rebid with 4th suit is :ref:`fsf` |gf|
 
+
+
+.. _ingberman:
+
+Ingberman 2NT
+=============
+
+(aka :title:`Lebensohl after Opener's Reverse`)
+
+After a reverse after a 1L response (eg `1C-1H-2D`), resp may have min hand and may not want game.
+In this case, bidding `2NT*` requests opener to rebid 1st suit (after a reverse after a 2L response,
+it is always |gf|)
+
+- `1D-1S-2H-2NT*` |1f| weak, will transfer to `3D`, which resp corrects or passes
+
+- `1D-1S-2H-2S` |so| weak
+
+- Everything else after a reverse is |gf|
+
+A very strong opener can ignore the `2NT*` request and not bid first suit.

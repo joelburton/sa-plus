@@ -34,6 +34,7 @@ Conventions
   - :ref:`gambling-3nt`: Gamble that 3NT would make with long, solid minor
   - :ref:`garbage-stayman`: using Stayman with terrible hands and shapes like :shape:`4=4=4=1`
   - :ref:`gsf`: Looking for specific cards for slam
+  - :ref:`ingberman`: Handling opener's reverse with a weak hand
   - :ref:`nmf`: Bid unbid major after opener rebid 1NT; used for invite+
   - :ref:`pretend-stayman`: showing 5+c in minor and GF
   - :ref:`rkc`: Ace-asking after a trump set

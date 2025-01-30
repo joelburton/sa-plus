@@ -2,9 +2,6 @@
 Responding to 1m
 ================
 
-.. todo:: per sayc, 2-over-1 w/new suit promises a rebid by responder unless opener takes to game
-
-
 
 .. topic:: How many |c|\ /\ |d| will opener have?
 
@@ -71,6 +68,12 @@ Priorities
     - 13+p: bid new suit |1f|, plan to raise later
 
     - 13-16p w/shortness in a suit: :ref:`splinter` |gf|
+
+.. important::
+
+  Bidding a new suit at 2L promises a rebid by responder,
+  unless opener takes it to game.
+
 
 Sample auctions
 ===============

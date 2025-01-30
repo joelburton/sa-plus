@@ -47,8 +47,8 @@ A followup of 5NT asks for Kings, with the same system.
 
 .. _rkc:
 
-RKC Blackwood
-=============
+RKC 0314
+========
 
 - Don't use w/worthless doubletons or voids (too risky!)
 
@@ -64,6 +64,13 @@ RKC Blackwood
 
 - 5NT asks for Kings with standard Blackwood 0-or-4/1/2/3
 
+
+.. _rkc-1430:
+
+RKC 1430
+========
+
+Same as :ref:`rkc`, but |c|\ =14 |d|\ =30
 
 
 .. _gerber:

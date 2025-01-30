@@ -35,3 +35,4 @@ Standard Bidding System
   conv
   leads
   sayc
+  choices

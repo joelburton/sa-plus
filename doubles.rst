@@ -327,7 +327,6 @@ After penalty double at 3L or lower and no trump agreed on: "Partner, pick anoth
 
 Be careful not to confuse with :ref:`x-xx`.
 
-.. todo:: Is SOS double always from the passout seat? Truscott thinks so
 
 
 .. _x-neg:

@@ -47,7 +47,6 @@ Priorities
 
 (There isn't a good general forcing rebid after a `1m` opening, which is a flaw of Standard American)
 
-.. todo:: Investigate NMF or inverted minors
 
 
 .. rubric:: Maximum (19-21p)
