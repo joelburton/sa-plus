@@ -110,7 +110,7 @@ Overcalls after `1D-` open
   `3C/3H/3S`           |inv|        < 10        **Preemptive:** good 7+c suit
   `2NT`                |1f| |conv|  ???         **Weak** *or* **Strong** :shape:`?=5=?=5` :ref:`Unusual-2NT`
   `2H/2S`              |inv|        5-11        **Preemptive:** good 6+c suit
-  `2D`                 |1f|         13+         **Weak** *or* **Strong** :shape:`5=5=?=?` :ref:`michaels`
+  `2D`                 |1f|         13+         **Weak** *or* **Strong** :shape:`5=5=?=?` :ref:`Michaels`
   `2C`                 |inv|        13-17       **Overcall:** good 5+c suit
   `1NT`                |inv|        15-18       **Overcall:** balanced, stoppers in |d|
   `1H/1S`              |inv|        7-17        **Overcall:** decent 5+c

@@ -46,7 +46,7 @@ Conventions
   - :ref:`landy`: Simplest, for weak/strong NT
   - :ref:`cappelletti`: Defense against 1NT, for weak/strong NT
   - :ref:`dont`: Defense against 1NT, for strong NT
-  - :ref:`meckwell`: Defense againt 1NT, for weak/strong NT
+  - :ref:`meckwell`: Defense against 1NT, for weak/strong NT
 
 .. in seagram basic books but not here:
 
@@ -115,7 +115,7 @@ Splinter
 A game-force shape-showing double-jump in a new suit to agree to a trump suit (w/4+ M or 5+ m).
 Can be made by opener/responder. Off if opponents are in auction (big jumps then are preemptive):
 
-For responder, should be about 13-15p in mjor; about 15-17p in minor (since may need to go to `4m`)
+For responder, should be about 13-15p in Major; about 15-17p in minor (since may need to go to `4m`)
 
 `1S-4D`: 4+ |s|, |gf|, void or singleton in diamonds (& not the A or K).
 
