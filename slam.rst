@@ -110,7 +110,7 @@ Bid of new suit *after fit*:
 
 - m trump: above `3NT`
 
-1st round: A/void, 2nd: K/singleton. Bid up line. Bid at/above game in trump to show nothing.
+1st round: A/void, 2nd: K/singleton/void. Bid up line. Bid at/above game in trump to show nothing.
 
 
 .. todo:: consider interference of Ace-asking: DOPI/ROPI
@@ -120,3 +120,9 @@ Bid of new suit *after fit*:
   - Doubled: ROPI: redouble w/0, pass w/1. Same.
 
   - Some use DEPO for interference above 5-level: double w/even # of aces, pass w/odd.
+
+.. _dopi:
+
+DOPI
+====
+

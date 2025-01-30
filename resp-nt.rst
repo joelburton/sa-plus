@@ -329,11 +329,20 @@ Use for transferring to all 5+c majors (except 5c-4c, see :ref:`stayman`).
 - `1NT-2H**-2S-5NT` |1f|: pick `6NT` or `6S`
 
 
-.. rubric:: Other transfers
+
+.. _jacoby-relay:
+
+Jacoby 2S relay
+---------------
 
 - `1NT-2S**` |1f| |conv| is transfer to `3C` (to play); partner can correct `3D` (to play)
 
   - This is weak; for strength, use :ref:`pretend-stayman` for invitational 6+c, use :ref:`nt-long-minor`
+
+.. _jacoby-super:
+
+Jacoby super accept
+-------------------
 
 - **Jacoby Super Accept**: accept transfer at 3L under right circumstances (else at 2L)
 
@@ -425,3 +434,4 @@ Examples
 - :hand:`4 AQJ873 8752 K2`: `1NT-4D**-4H-p` (Texas |gf| 6+c) :discreet:`q3.4`
 - :hand:`73 KJ8 KQJ943 62`: `1NT-3NT` (`3NT` easier than `5C`) :discreet:`q3.7`
 - :hand:`6 83 QT9642 T753`: `1NT-2S-3C-3D` |so| (transfer to weak minor) :discreet:`q3.8`
+- :hand:`Q93 K65 J843 Q87`: `1NT-p` (8hcp, but flat & points scattered, so pass) :discreet:`sayc2`

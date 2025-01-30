@@ -32,12 +32,14 @@ Priorities
 Sample auctions
 ===============
 
-Rebid after opener minimum: `1H-1S-2H`
---------------------------------------
+Rebid after opener min
+----------------------
 
-- `1H` 12-21p & 5 |h|
-- `-1S` 6+p & 4 |s|
-- `-2H`  12-16p & 6 |h|
+- `1H-1S-2H`
+
+  - `1H` 12-21p & 5 |h|
+  - `-1S` 6+p & 4 |s|
+  - `-2H`  12-16p & 6 |h|
 
 .. table::
   :class: table-unstriped table-condense
@@ -59,12 +61,14 @@ Rebid after opener minimum: `1H-1S-2H`
   ==================== ============ =========== ============================================
 
 
-Rebid after opener medium: `1C-1H-3H`
-=====================================
+Rebid after opener med
+----------------------
 
-- `1C` 12-21p & 3+ |c| (probably 4+)
-- `-1H` 6+p & 4 |h|
-- `-3H` 17-18p & 4 |h|
+- `1C-1H-3H`
+
+  - `1C` 12-21p & 3+ |c| (probably 4+)
+  - `-1H` 6+p & 4 |h|
+  - `-3H` 17-18p & 4 |h|
 
 .. table::
   :class: table-unstriped table-condense
@@ -82,8 +86,10 @@ Rebid after opener medium: `1C-1H-3H`
   ==================== ============ =========== ============================================
 
 
-Rebid after opener max: `1C-1S-4S`
-==================================
+Rebid after opener max
+----------------------------------
+
+- `1C-1S-4S`
 
 .. table::
   :class: table-unstriped table-condense

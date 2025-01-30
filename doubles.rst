@@ -133,12 +133,15 @@ Advancing T/O by partner
 
   - 19-20p `"cheapest NT"`, 21-22p `2NT`, 23+p: `3NT`
 
-Advancing takeout double: `1H-(X)-p-`
-+++++++++++++++++++++++++++++++++++++
 
-- `1H`: 12-21p, 5+ |h|
-- `(X)`: 13+p (counting w/dummy points), 3+c support for |c|\ |d|\ |s| (4 |s| is suggested!)
-- `p`: weak
+Advancing T/O
++++++++++++++
+
+- `1H-(X)-p-`
+
+  - `1H`: 12-21p, 5+ |h|
+  - `(X)`: 13+p (counting w/dummy points), 3+c support for |c|\ |d|\ |s| (4 |s| is suggested!)
+  - `p`: weak
 
 .. table::
   :class: table-unstriped table-condense
@@ -161,14 +164,16 @@ Advancing takeout double: `1H-(X)-p-`
   `p`                  |inv|        6+          **Convert to penalty** (RARE!)
   ==================== ============ =========== ================================================
 
-Doubler's rebid after min advance: `1D-(X)-p-(1H)-p-`
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Doubler's rebid after min
++++++++++++++++++++++++++
 
-- `1D`: 12-21p, 5+ |d|
-- `(X)`: 13+p (counting w/dummy points), 3+c support for |c|\ |h|\ |s| (4 |s|\ |h| is desirable!)
-- `p`: weak
-- `(1H)`: 0-8p, 4+ |h|
-- `p`: weak
+ `1D-(X)-p-(1H)-p-`
+
+  - `1D`: 12-21p, 5+ |d|
+  - `(X)`: 13+p (counting w/dummy points), 3+c support for |c|\ |h|\ |s| (4 |s|\ |h| is desirable!)
+  - `p`: weak
+  - `(1H)`: 0-8p, 4+ |h|
+  - `p`: weak
 
 .. table::
   :class: table-unstriped table-condense
@@ -192,34 +197,36 @@ Doubler's rebid after min advance: `1D-(X)-p-(1H)-p-`
 Opponents make T/O
 ------------------
 
-`1H-(X)-`
+- `1H-(X)-`
 
-- `-1NT` |inv|: 6-9p, no fit
+  - `-1NT` |inv|: 6-9p, no fit
 
-- `XX` |inv|: 10+hcp & tend to deny fit in |h|
+  - `XX` |inv|: 10+hcp & tend to deny fit in |h|
 
-- `2H` |inv|: raise (same as usual)
+  - `2H` |inv|: raise (same as usual)
 
-- `3H` |inv|: preemptive w/4c
+  - `3H` |inv|: preemptive w/4c
 
-- `4H` |inv|: preemptive jump raise to game, 5c + weak
+  - `4H` |inv|: preemptive jump raise to game, 5c + weak
 
-- `2NT*` |1f| |conv| = limit+ raise (:ref:`truscott-2nt`)
+  - `2NT*` |1f| |conv| = limit+ raise (:ref:`truscott-2nt`)
 
-- `-1S` |1f| new suit at 1-level
+  - `-1S` |1f| new suit at 1-level
 
-- `-2C` |inv|: new suit at 2-level, w/5+c in |c|
+  - `-2C` |inv|: new suit at 2-level, w/5+c in |c|
 
-    - doesn't need many pts, since `XX` would show strength
+      - doesn't need many pts, since `XX` would show strength
 
-- `-3C` |inv| Jump shift, preemptive
+  - `-3C` |inv| Jump shift, preemptive
 
 
-Responder after T/O: `1H-(X)-`
-++++++++++++++++++++++++++++++
+Responder after T/O
++++++++++++++++++++
 
-- `1H`: 12-21p, 5+ |h|
-- -(X)`: opening-value hand, 3+c in |c|\ |d|\ |s|
+- `1H-(X)-`
+
+  - `1H`: 12-21p, 5+ |h|
+  - -(X)`: opening-value hand, 3+c in |c|\ |d|\ |s|
 
 .. table::
   :class: table-unstriped table-condense

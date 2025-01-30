@@ -30,6 +30,8 @@ When evaluating your hand as dummy *after* a fit found:
 
 - Don't count :dfn:`non-working honors` *(ie, singleton Q gets dummy points but not 2 points for Q)*
 
+.. todo sayc book uses 3/2/1 for 3t and 5/3/1 for 4t, which seems sensible
+
 
 Likely tricks by points/HCPs
 ============================

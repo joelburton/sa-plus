@@ -2,6 +2,10 @@
 Responding to 1m
 ================
 
+.. todo:: per sayc, 2-over-1 w/new suit promises a rebid by responder unless opener takes to game
+
+
+
 .. topic:: How many |c|\ /\ |d| will opener have?
 
   - `1C`: 3c = 16%, 4c = 38%, 5c = 29%, 6+c = 17%
@@ -46,7 +50,9 @@ Priorities
 
     - With choice of 4+c suits, bid lowest & up-the-line
 
-    - When minimal (6-10p), skip `1D` if you have a 4c major to bid
+    - When minimal (6-10p), might be right to skip `1D` if you have a 4c major to bid
+
+      .. discussion of this in SAYC Ch 5
 
 4.  Bid NT with balanced hand
 
@@ -126,14 +132,14 @@ Responding to `1D`
 
 .. topic:: Example bids
 
-  - :hand:`A73 Q98 A8763 76`: `1D-3D` (limit raise) :discreet:`bq1.9`
-  - :hand:`J73 3 AQJ764 AJ3`: `1D-3H` (splinter) :discreet:`bq1.10`
-  - :hand:`KQ9 QJ8 AJ5 J875`: `1C-3NT` (go to game w/balanced) :discreet:`bq14.2)`
-  - :hand:`AQ93 7 AK8763 T4`: `1C-1D` (15p, but don't need jump---new suit is |1f|) :discreet:`bq14.6`
-  - :hand:`K74 5 9863 QJ975`: `1C-2C` (raise) :discreet:`bq14.10`
-  - :hand:`Q873 95 J4 AQ852`: `1C-1S` (1st priority: show major) :discreet:`bq35.2`
-  - :hand:`K973 752 KJT7 72`: `1C-1D` (up line) or `1C-1S` (weak, will only get one bid) :discreet:`bq35.6`
-  - :hand:`K4 AKQJ52 96 A82`: `1C-2H` (w/SJS, 19p) or `1C-1H` (w/WJS) :discreet:`bq35.9`
+  - :hand:`A73 Q98 A8763 76`: `1D-3D` (limit raise) :discreet:`q1.9`
+  - :hand:`J73 3 AQJ764 AJ3`: `1D-3H` (splinter) :discreet:`q1.10`
+  - :hand:`KQ9 QJ8 AJ5 J875`: `1C-3NT` (go to game w/balanced) :discreet:`q14.2)`
+  - :hand:`AQ93 7 AK8763 T4`: `1C-1D` (15p, but don't need jump---new suit is |1f|) :discreet:`q14.6`
+  - :hand:`K74 5 9863 QJ975`: `1C-2C` (raise) :discreet:`q14.10`
+  - :hand:`Q873 95 J4 AQ852`: `1C-1S` (1st priority: show major) :discreet:`q35.2`
+  - :hand:`K973 752 KJT7 72`: `1C-1D` (up line) or `1C-1S` (weak, will only get one bid) :discreet:`q35.6`
+  - :hand:`K4 AKQJ52 96 A82`: `1C-2H` (w/SJS, 19p) or `1C-1H` (w/WJS) :discreet:`q35.9`
 
 Alternative approaches
 ======================
@@ -155,3 +161,6 @@ they're always weak & preemptive)
 
 Some people play as: normally SJS, but in competitive auction, use WJS.
 
+Examples:
+
+- :hand:`AK973 6 AKT74 A4` `1S-1NT-3C`

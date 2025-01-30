@@ -27,6 +27,11 @@ Required shape
 Generally, semi-balanced isn't ok for NT opening,
 but use judgement: if the short suits have stoppers, these *might be* ok.
 
+.. example of ok:
+
+  :hand:`AQ AQ A983 KJ983` (21 hcp, semi-balanced, but 2NT would be a fine choice, given stoppers)
+
+
 Points
 ------
 

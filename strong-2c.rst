@@ -52,11 +52,13 @@ Responding to `2C`
   `2D`                 |1f|         0+          **Waiting** (might have 8+p)
   ==================== ============ =========== ================================================
 
-Opener's rebid after waiting `2C-2D`
-------------------------------------
+Opener's rebid after waiting
+----------------------------
 
-- `2C`: 22+p or 9+ tricks
-- `2D`: 0+p, waiting
+- `2C-2D`
+
+  - `2C`: 22+p or 9+ tricks
+  - `2D`: 0+p, waiting
 
 .. table::
   :class: table-unstriped table-condense
@@ -71,12 +73,14 @@ Opener's rebid after waiting `2C-2D`
   `2NT`                |inv|        22-24       **Balanced**
   ==================== ============ =========== ================================================
 
-Responder's rebid `2C-2D-2H`
+Responder's rebid after suit
 ----------------------------
 
-- `2C`: 22+p or 9+ tricks
-- `2D`: 0+p, waiting
-- `2H`: 9+ tricks, unbalanced
+- `2C-2D-2H`
+
+  - `2C`: 22+p or 9+ tricks
+  - `2D`: 0+p, waiting
+  - `2H`: 9+ tricks, unbalanced
 
 .. table::
   :class: table-unstriped table-condense

@@ -34,6 +34,7 @@ Conventions
   - :ref:`gambling-3nt`: Gamble that 3NT would make with long, solid minor
   - :ref:`garbage-stayman`: using Stayman with terrible hands and shapes like :shape:`4=4=4=1`
   - :ref:`gsf`: Looking for specific cards for slam
+  - :ref:`nmf`: Bid unbid major after opener rebid 1NT; used for invite+
   - :ref:`pretend-stayman`: showing 5+c in minor and GF
   - :ref:`rkc`: Ace-asking after a trump set
   - :ref:`splinter`: strength-showing along with singleton/void
@@ -47,11 +48,9 @@ Conventions
   - :ref:`dont`: Defense against 1NT, for strong NT
 
 
-.. in seagram books but not here:
+.. in seagram basic books but not here:
 
    - meckwell against 1nt
-   - nmf
-   - responsive double
    - lebensohl
    - bergen raises
    - ogust over weak two
@@ -143,8 +142,10 @@ Examples
 Major game try
 ==============
 
+Also called *Long suit game try* or *Help suit game try*.
+
 After a raise in a major (`1H-2H` or `1S-2S`), opener w/17-18p can request help in deciding to stop in
-`3M` or go to `4M`.
+`3M` or go to `4M`. Do this by bidding long/weak suit.
 
 - `1H-2H-2NT*`: If resp has 8-10p: `3H` |so|; else `4H` |so|
 
@@ -179,7 +180,11 @@ Minor 3NT try
 
 `1D-2C-3C-3H`: shows stopper in H, since we're heading to a 3NT
 
-- "third suit shows, 4th asks"
+Unlike :ref:`major-game-try`, this shows stoppers (strength), rather than weakness`.
+
+.. what does "3L shows, 4L asks" mean?
+
+
 
 Examples
 --------
@@ -307,37 +312,6 @@ Examples
 - :hand:`5 3 QT8753 KQJ83`: `1H-`, |v+| `2NT`, else `p`
 
 
-
-.. _cappelletti:
-
-Cappelletti
-===========
-
-Defense against 1NT.
-
-Should be <15hcp; if more, double. Can be used in balancing seat. Bids:
-
-- Double  = equivalent hand (was going to open 1NT)
-- `2C*` = 1-suit, ~6+c (some play with 5c)
-- `2D*` = 5 |h| & 5 |s| (some play w/4-4)
-- `2H*` = |h| & a minor
-- `2S*` = |s| & a minor
-- `2NT*` = both minor
-- 3-anything natural
-
-.. note:: NeuralPlay: for `2C`: 5c should be 3/5 top honors, 6c should 2/3
-
-Responding to Cappelletti
--------------------------
-
-- Double: keep in if strong; else move to suit
-- Can pass `2C*` or `2D*` with 6+ good |c|/|d|
-- `2C*-2D*` asks suit, `2HS` w/good 5c, `2NT` is 11+hcp and ok w/any
-- `2D*`: `2HS` picks, `2NT*` asks better minor, `3C` is 6+c C, `3HS` invite game w/4+ in suit
-- `2HS*`: pass to play, raise 7-10p, new suit natural NF, `2NT*` asks for minor
-
-
-
 .. _drury:
 
 Drury
@@ -438,11 +412,57 @@ Examples
 - :hand:`AQ74 AKJ74 5 K64` `1S-(2D)-2H` |1f|: huge hand, no rush, can show |s| later
 
 
+.. _nmf:
 
-.. _dont:
+New minor forcing
+=================
 
-DONT against 1NT
-================
+Bidding unbid minor after opener rebids 1NT: `1C-1S-1NT-1D*`. Says nothing about #\ |d|.
+
+Helps find 3-5 fits, handle game invitations, and bids games/slams starting at
+lower levels of bidding.
+
+**Requires:** 11+p (invitational against 12-14p opener)
+
+If both majors are already bid, pick longer/stronger/stopped minor: `1H-1S-1NT-1D*`
+if |d| is better.
+
+
+Responding to NMF
+-----------------
+
+The `1NT` rebid shows opener to have 12-14p; "min" is 12/13 and "max" is 13/14.
+
+Priorities:
+
+1.  Show unbid 4c major (`2M` if min; `3M` if max)
+
+2.  Show support for partner's suit (even w/3c, `2s` if min; `3s` if max)
+
+3.  Show range
+
+    - Stoppers in unbid: `2NT` if min, `3NT` if max
+
+    - Min and no stoppers: rebid opening suit (P will pass or convert to `2NT`)
+
+    - Else: |gf| unbid suit w/stopper or jump-bid your opening suit
+
+
+Can't use NMF
+-------------
+
+- `1C-1S-1NT-2H`: 5-4 in M, not invite+ vals (P will pass or correct)
+
+- `1D-1S-1NT-3D`: not NMF at 3L; not invite+ vals, long |d| and not good for NT
+
+- `1D-1S-1NT-2NT/3NT`: have stoppers, don't care about majors (4 |s| and 0-3 |h|)
+
+
+
+.. _vs-nt:
+
+Defenses against 1NT
+====================
 
 Good reasons to fight `1NT`:
 
@@ -450,116 +470,18 @@ Good reasons to fight `1NT`:
 
 - Hard to defend: you don't know what suit P has to lead
 
-DONT: can use with 7-15p
 
-- `X`: single-suit (`2C` asks which)
+.. _dont:
 
-- `2C` |c| & higher-ranking suit (4-5 or 5-4)
-
-- `2D` |d| & higher-ranking suit (4-5 or 5-4)
-
-- `2H` |h| & |s| (4-5 or 5-4)
-
-- `2S` 6+ |s|, weaker than `X`
-
-- `2NT` minors, 5+/5+    .. note this doesn't seem to be in everyone's book
-
-.. note many think is only good against strong nt
-
-Examples
---------
-
-- :hand:`QJ982 63 AT982 9`: `1NT-2D`
-
-- :hand:`K975 KT763 62 63`: `1NT-` |v+| `(2H)`, else: `p`
-
-- :hand:`85 3 KJT54 AJ973`: `1NT-2NT` (5-5 minors and some points)
-
-- :hand:`AK9763 983 A8 J6`: `1NT-2C` (strong, so not using weaker `-2S`)
-
-
-Responding
-----------
-
-- `-X`:
-
-  - `2C` ask their 6c suit
-
-  - Bid own 6+c suit
-
-  - `p`: rare, if you hold balanced 15+ hcp
-
-- `2C`: don't know what 2nd suit is
-
-  - `2D`: asks for 2nd suit
-
-  - `2NT` |gf|: strong response, P will bid other suit at 3L
-
-- `2D`: don't know what 2nd suit is
-
-  - `2H` asks
-
-  - `2NT` |gf|: strong response, P will bid other suit at 3L
-
-- `2H`
-
-  - `2NT` |gf|: strong response, P will bit `3H/3S` for longer or `3C` if 5-5
-
-- `2S`
-
-  - `2NT`: bid |s| game with max
-
-
-Example responses to `-2C`
-++++++++++++++++++++++++++
-
-- :hand:`A5 87 KT8752 964`: `p` (`-2D` asks for other suit, here: `p` to play in |d|)
-
-- :hand:`Q97 AT963 K94 T8`: `2D` ask (& hope it's hearts!)
-
-- :hand:`95 KT872 Q962 83`: `p` (interesting!)
-
-  - Inference: given your black shortage and RHO not bidding them, partner must have them
-
-  - So: `p` to get a 4-2 or 5-2 fit in clubs, rather than raising stakes
-
-- :hand:`KQT964 93 A4 T76`: `2S` (insist on your own great suit)
-
-
-Example responses to `-2D`
-++++++++++++++++++++++++++
-
-- :hand:`KQ73 93 J93 KT94`: `p` (don't lose 4-3 |d| fit to a 4-2 likely |h| fit!)
-
-- :hand:`KT862 974 T2 AK3`: `2H` (show; if it's |s|, go to `3S`)
-
-- :hand:`86 74 AQT543 T86`: `3D` (great fit, make it hard for them to find fit)
-
-- :hand:`AQ94 AT63 A3 982`: `2NT` |gf| show your M
-
-Interference
-------------
-
-- `1NT-(X)-2S-(X)`: asks for suit
-
-- `1NT-(2C/2D)-X-` (opp doubles, prob for Stayman if over `2C`)
-
-  - "pass to play [suit you know], redouble for rescue [bid other suit]"
-
-  - or with good hand, bid your own good 6+c suit
-
-- `1NT-(2C/2D)-2H`
-
-  - `X`: ask for 2nd suit *or* with support for opening minor
-
-    - You can retreat to their minor after they reveal 2nd suit
+DONT against 1NT
+================
 
 
 
 .. _landy:
 
 Landy
-=====
+-----
 
 Simple defense against `1NT`.
 
@@ -587,7 +509,7 @@ Simple defense against `1NT`.
 
 
 Examples
---------
+++++++++
 
 - :hand:`KQ84 AJ742 A73 4`: `1NT-(2C)` |1f| |conv| perfect for Landy
 
@@ -598,7 +520,7 @@ Examples
 - :hand:`KJ53 AQ52 K63 J5`: `1NT-(p)` no 5+c M, too weak to double
 
 Responding to Landy
-+++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~
 
 - :hand:`8642 3 J4 J98642` :`-2S` |so| got 4 |s|, better than in |c|
 
@@ -609,4 +531,152 @@ Responding to Landy
 - :hand:`J9742 K54 97543 -`: `-4S` |so| preemptive w/fit in both M
 
 - :hand:`K Q5 AJ53 KQJ953`: `-3NT` |so|, risky but P can cover both M
+
+
+
+
+.. _cappelletti:
+
+Cappelletti
+-----------
+
+(Also called :title:`Hamilton` or :title:`Pottage`).
+
+Defense against 1NT, especially good against weak NT, but also used with strong NT.
+
+Should be <15hcp; if more, double. Can be used in balancing seat. Bids:
+
+- Double  = equivalent hand (was going to open 1NT)
+- `2C*` = 1-suit, ~6+c (some play with 5c)
+- `2D*` = 5 |h| & 5 |s| (some play w/5-4 or 4-4)
+- `2H*` = 5+ |h| & 4+ minor
+- `2S*` = 5+ |s| & 4+ minor
+- `2NT*` = both minors (5-4 or better)
+- 3-anything natural
+
+.. note:: NeuralPlay: for `2C`: 5c should be 3/5 top honors, 6c should 2/3
+
+Responses to Cappelletti
+++++++++++++++++++++++++
+
+- Double: keep in if strong; else move to suit
+- Can pass `2C*` or `2D*` with 6+ good |c|/|d|
+- `2C*-2D*` asks suit, `2HS` w/good 5c, `2NT` is 11+hcp and ok w/any
+- `2D*`: `2HS` picks, `2NT*` asks better minor, `3C` is 6+c C, `3HS` invite game w/4+ in suit
+- `2HS*`: pass to play, raise 7-10p, new suit natural NF, `2NT*` asks for minor
+
+
+
+.. _dont:
+
+DONT
+----
+
+Good against strong NT; lack of natural double isn't great v weak NT.
+
+After `(1NT)-`, with **7-15p**: *(for 16+p, just double and be aggressive)*
+
+- `X*`: 6+c suit (`2C` asks which)
+
+- `2C*` |c| & higher-ranking suit (4+/5+)
+
+- `2D*` |d| & higher-ranking suit (4+/5+)
+
+- `2H*` |h| & |s| (4+/5+)
+
+- `2S*` 6+ |s|, weaker than `X`
+
+- `2NT*` minors, 5+/5+
+
+  .. xxx this doesn't seem to be in everyone's book
+
+
+Examples
+++++++++
+
+- :hand:`QJ982 63 AT982 9`: `(1NT)-2D*`
+
+- :hand:`K975 KT763 62 63`: `(1NT)-` |v+| `2H*`, else: `p`
+
+- :hand:`85 3 KJT54 AJ973`: `(1NT)-2NT*` (5-5 minors and some points)
+
+- :hand:`AK9763 983 A8 J6`: `(1NT)-2C*` (strong, so not using weaker `-2S*`)
+
+
+Responding
+++++++++++
+
+- `-X*`:
+
+  - `2C` ask their 6c suit, they can pass with weak |c|
+
+  - Bid own decent 6+c suit
+
+  - `p`: rare, if you hold balanced 15+ hcp
+
+- `-2C*/-2D*`: don't know what 2nd suit is
+
+  - `2D/2H` (next avail bid): asks for 2nd suit
+
+  - `2NT` |gf|: strong response, P will bid other suit at 3L
+
+- `-2H*`
+
+  - Choose a major suit: `p` or `2S`
+
+  - `2NT` |gf|: strong response, P will bid `3H/3S` for longer or `3C` if 5-5
+
+- `2S*`
+
+  - `p` if |s| ok w/you & weaker end
+
+  - `3S` (particularly after interference); competitive, not invite
+
+  - `2NT`: strong invite, bid `4S` game with max or `3S` if not
+
+
+Example responses to `-2C*`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- :hand:`A5 87 KT8752 964`: `p` (`-2D` asks for other suit, here: `p` to play in |d|)
+
+- :hand:`Q97 AT963 K94 T8`: `2D` ask (& hope it's hearts!)
+
+- :hand:`95 KT872 Q962 83`: `p` (interesting!)
+
+  - Inference: given your black shortage and RHO not bidding them, partner must have them
+
+  - So: `p` to get a 4-2 or 5-2 fit in clubs, rather than raising stakes
+
+- :hand:`KQT964 93 A4 T76`: `2S` (insist on your own great suit)
+
+
+Example responses to `-2D*`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- :hand:`KQ73 93 J93 KT94`: `p` (don't lose 4-3 |d| fit to a 4-2 likely |h| fit!)
+
+- :hand:`KT862 974 T2 AK3`: `2H` (show; if it's |s|, go to `3S`)
+
+- :hand:`86 74 AQT543 T86`: `3D` (great fit, make it hard for them to find fit)
+
+- :hand:`AQ94 AT63 A3 982`: `2NT` |gf| show your M
+
+
+Interference
+++++++++++++
+
+- `(1NT)-X*-(2S)-X*`: asks for suit
+
+- `(1NT)-2C*/2D*-(X)-` (opp doubles, prob for Stayman if over `2C`)
+
+  - "pass to play [suit you know], redouble for rescue [bid other suit]"
+
+  - or with good hand, bid your own good 6+c suit
+
+- `(1NT)-2C*/2D*-(2H)`
+
+  - `X`: ask for 2nd suit *or* with support for opening minor
+
+    - You can retreat to their minor after they reveal 2nd suit
 
