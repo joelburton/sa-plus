@@ -46,7 +46,7 @@ Conventions
   - :ref:`landy`: Simplest, for weak/strong NT
   - :ref:`cappelletti`: Defense against 1NT, for weak/strong NT
   - :ref:`dont`: Defense against 1NT, for strong NT
-
+  - :ref:`meckwell`: Defense againt 1NT, for weak/strong NT
 
 .. in seagram basic books but not here:
 
@@ -674,3 +674,51 @@ Interference
 
     - You can retreat to their minor after they reveal 2nd suit
 
+
+
+.. _meckwell:
+
+Meckwell
+--------
+
+- `X`: |c| or |d| or both majors
+- `2C`: |c| & a major (4+/5+)
+- `2D`: |d| & a major (4+/5+)
+- `2H`: |h|, 6+c or strong 5+c
+- `2S`: |s|, 6+c or strong 5+c
+- `2NT`: both minors
+
+Responding to `2C/2D`
++++++++++++++++++++++
+
+- `p`
+
+- `2D`: asks for major
+
+- `2H`: can correct to `2D` if that was your major
+
+Responding to `2NT`
++++++++++++++++++++
+
+- `3C/3D` to play
+
+Responding to `X`
++++++++++++++++++
+
+- `2C`: asks for bid type
+
+  - `p`: |c|
+  - `2D`: |d|
+  - `2H`: both majors
+
+Partner will pass or correct
+
+Over weak NT
+++++++++++++
+
+- `X`: **Changed** penalty
+- `2C`: **Changed** |c| & |s| *or* |h| & |s|
+- `2D`: |d| & a major (4+/5+)
+- `2H`: |h|, 6+c or strong 5+c
+- `2S`: |s|, 6+c or strong 5+c
+- `2NT`: both minors
