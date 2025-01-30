@@ -471,12 +471,6 @@ Good reasons to fight `1NT`:
 - Hard to defend: you don't know what suit P has to lead
 
 
-.. _dont:
-
-DONT against 1NT
-================
-
-
 
 .. _landy:
 

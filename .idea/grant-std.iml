@@ -6,7 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
       <excludeFolder url="file://$MODULE_DIR$/_build" />
     </content>
-    <orderEntry type="jdk" jdkName="Python 3.11 (sa-plus)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.13 (grant-std)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
